@@ -1,0 +1,16 @@
+{
+  "name": "utils",
+  "version": "1.0.0",
+  "description": "JavaScript personalized utilities.",
+  "main": "index.mjs",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AlMahllawi/js-utils.git"
+  },
+  "author": {
+    "name": "Mohammad AlMahllawi",
+    "email": "mohammadalmahllawi@gmail.com"
+  },
+  "license": "MIT",
+  "keywords": []
+}
