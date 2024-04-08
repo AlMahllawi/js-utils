@@ -1,5 +1,2 @@
-import NumericRange from "./lib/numeric-range.mjs"
-
-export {
-  NumericRange
-}
+export * from "./lib/stepped-range.mjs";
+export * as Randomization from "./lib/random.mjs";
